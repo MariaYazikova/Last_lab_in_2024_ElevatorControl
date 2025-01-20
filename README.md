@@ -1,4 +1,4 @@
-Multi-threaded program for controlling two elevators in a house. 
+Multi-threaded program for controlling two elevators in a house. Second year university.
 
 The program minimizes:
 - elevator waiting time
